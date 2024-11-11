@@ -1,0 +1,6 @@
+##gff-version 3
+##source-version geneious 2024.0.5
+##sequence-region	test	1	1109
+test	Geneious	extracted region	1	1109	.	+	.	Name=Extracted region from 000011F_arrow
+test	AUGUSTUS	CDS	110	612	1.0	+	0	Name=g7043.t1;ID=ZpwRSci9NkVyiVAjfT3JrUVGEAI.1731321832086.2
+test	AUGUSTUS	CDS	686	923	1.0	+	0	Name=g7043.t1;ID=ZpwRSci9NkVyiVAjfT3JrUVGEAI.1731321832086.2
